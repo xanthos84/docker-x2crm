@@ -1,5 +1,5 @@
 version: '3.3'
-
+services:
 # Uncomment for testing
    db:
      image: mariadb:latest
